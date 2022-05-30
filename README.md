@@ -18,7 +18,7 @@ https://www.arduino.cc/
 4. Type ESP32 in search field and install 
 5. Plugin board in USB port
 6. Open one of the example sketches
-7. Go to Tools > Board > ESP32 boards > click on: Lolin ESP32 Pro
+7. Go to Tools > Board > ESP32 boards > click on: Lolin D32 Pro
 8. Go to Tools > Port > click on: serial port (this might be differt for each computer. usually the bottom one)
 9. Go to Tools > Uploadspeed > click on: 460800
 10. Click on upload button, upper richt corner
